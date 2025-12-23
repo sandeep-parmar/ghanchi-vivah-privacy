@@ -84,4 +84,4 @@ Changes will be reflected with an updated effective date.
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 Email: admin@ghanchivivah.in
+📧 Email: ghanchivivah@gmail.com
