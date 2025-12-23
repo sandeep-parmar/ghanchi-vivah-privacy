@@ -52,7 +52,6 @@ We do not sell or rent your personal data.
 
 Your data may be shared only:
 When required by law
-
 To protect the rights, safety, or integrity of users or the app
 With service providers strictly for app functionality
 
@@ -60,7 +59,7 @@ With service providers strictly for app functionality
 We retain user data only as long as necessary to provide app services and meet legal obligations.
 
 6. Account & Data Deletion
-Users can delete their profile and account at any time directly from within the app.
+Users can delete their profile and account directly from within the app at any time.
 
 Upon deletion:
 Your profile data is permanently removed
@@ -80,7 +79,7 @@ We may update this policy from time to time.
 Changes will be reflected with an updated effective date.
 
 10. Contact Us
-    EMAIL: sandeepparmar20@gmail.com
+    EMAIL: ghanchivivah@gmail.com
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
