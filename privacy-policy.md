@@ -84,4 +84,4 @@ Changes will be reflected with an updated effective date.
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 Email: sandeepparmar20@gmail.com
+📧 Email: admin@ghanchivivah.in
